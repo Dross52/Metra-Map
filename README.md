@@ -20,13 +20,12 @@ MetraMap is available on the iOS App Store. Download and start tracking your com
 
 Support
 
-For help, bug reports, or feature requests, visit:
-📌 Support Page
+For help, bug reports, or feature requests, email us at **asphalt.bins_5z@icloud.com**
 
 Privacy Policy
 
 Your privacy is important. Read our full privacy policy here:
-🔒 Privacy Policy
+🔒 [Privacy Policy](https://github.com/Dross52/Metra-Map/commit/6f8cf8f9e8c072baf53040e7c42f26c18f97c2ce)
 
 Contributing
 
